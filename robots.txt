@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gworkxdigital.github.io/hearthstone-landscapers/sitemap.xml
